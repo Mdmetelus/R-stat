@@ -1,4 +1,5 @@
 10+5
+10 + 17
 
 x<-1
 x
@@ -18,6 +19,9 @@ print(yy)
 getwd()
 
 setwd("")
+5<-77
+55<-7
+55<7
 
 100:127
 1:6
@@ -27,3 +31,22 @@ dice<-die
 dice*dice
 
 doubleDice<-dice*dice
+
+10+3 #addition
+10-3 #subtraction
+10/ 3 # division, float
+8/2 # division, int
+10*3 #multiplication
+
+#exponents:
+10*10*10
+10**3
+10^3
+
+10 %/% 3
+
+ls()
+
+save() # save individual variable with the save function.
+
+save.image() # save the entire workspace wit htis function.
